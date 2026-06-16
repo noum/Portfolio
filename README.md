@@ -184,7 +184,7 @@ I have worked across content management systems (WordPress, WooCommerce, PrestaS
 ## Contact
 
 - **Email:** noum77@gmail.com
-- **Phone:** +261 033 25 343 55
+- **Phone:** +261 33 25 343 55
 - **Location:** Madagascar (Remote)
 - **GitHub:** [github.com/noum](https://github.com/noum)
 
