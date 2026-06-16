@@ -9,7 +9,7 @@
 <br>
 
 [![Email](https://img.shields.io/badge/Email-noum77%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:noum77@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-noum77-181717?style=flat&logo=github&logoColor=white)](https://github.com/noum77)
+[![GitHub](https://img.shields.io/badge/GitHub-noum-181717?style=flat&logo=github&logoColor=white)](https://github.com/noum)
 ![Location](https://img.shields.io/badge/Location-Madagascar%20(Remote)-2ea44f?style=flat&logo=googlemaps&logoColor=white)
 
 <br>
